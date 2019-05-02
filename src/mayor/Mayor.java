@@ -21,5 +21,7 @@ public class Mayor {
      else{ //si no se cumple la primera condicion se manda este mensaje
               System.out.println("El numero mayor es "+numero2);
          }
+     
+     // hola
     }
 }
